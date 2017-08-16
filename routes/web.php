@@ -12,7 +12,7 @@
 */
 
 Route::get('/', function () {
-    return date() > 1 ? "Welcome" : "whoops! Something went wrong!";
+    return view("welcome");
 });
 
 Route::get("/about", function() {
