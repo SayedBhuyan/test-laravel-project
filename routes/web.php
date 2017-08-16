@@ -26,3 +26,5 @@ Route::get("/feature", function() {
 Route::get("/api", function() {
 	return "Some json api data depends on what is requested.";
 });
+
+Route::get("/posts", "PostsController@index");
