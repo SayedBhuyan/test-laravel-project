@@ -79,7 +79,8 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Welcome to Laravel
+                    Welcome to Laravel 5
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci sunt harum et, dolorem reiciendis illo dicta, ducimus soluta repellat facere impedit inventore veniam molestias ad. Eius aliquid assumenda unde. Dolor.</p>
                 </div>
 
                 <div class="links">
